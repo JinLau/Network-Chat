@@ -1,2 +1,2 @@
 # Network-Chat
-This programm is a network based chat.
+A Java-Programm that uses the local Network with own Peer-to-Peer Implementation.
