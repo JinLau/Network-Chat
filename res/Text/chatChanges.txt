@@ -1,0 +1,48 @@
+Version 0.1a
+ - Erste Version mit grafischer Oberfläche
+
+Version 0.1.1a
+ - Probleme mit der Scanfunktion behoben
+
+Version 0.2a
+ - Peerliste hinzugefügt
+
+Version 0.3a
+ - JMenuBar mit Namen der Entwickler hinzugefügt
+
+Version 0.4b
+ - Fehler mit falschen Namen im Chatroom behoben
+ - Mit drücken der Enter Taste lässt sich nun auch die Nachricht im Chatroom abschicken
+ - Drücken von ALT + ENTER fügt nun eine neue Zeile
+   nach der aktuellen Cursorposition ein
+
+Version 0.5b
+ - Im Chatroom wird jetzt immer automatisch zur aktuellsten Nachricht gescrollt
+ - Einfügen einer neuen Zeile nun mit SHIFT + ENTER
+ - Chat Bestätgung und Ablehnung wurde deaktiviert
+ - Entwicklermodus hinzugefügt
+ - Panik-Schliess-Modus hinzugefügt beim bewegen der Maus zum oberen Bildschirmrand
+ - Optionsmenü zum Ändern des Scannbar-Status und des Panik-Fenster-Schliess-Modus
+ - Hinzufügen dieses Changelogs
+ - DAU-Erkennung und DAU-Schutz
+ - Benachrichtigungen hinzugefügt
+
+Version 0.6a
+ - Verbesserung der Debug-Nachrichten
+ - Erster Versuch eines Gruppenchats
+ - Durch einen erneuten scan sollten nun alle offline-Nutzer aus der Liste entfernt werden
+ - HTML-Tags können nun zum chatten benutzt werden
+ - Dateitransfer hinzugefügt. Maximal 2 GiB (2 Gigabyte)
+ - Synchronisieren button hinzugefügt sollten Gruppenmitglieder 
+   nicht richtig hinzugefügt worden sein oder fehlen
+ - Namen der Teilnehemner
+ - Nützliche Informationen im Control Center hinzugefügt
+ - Zeitstempel für Nachricht
+ - Memes Support. [[bps]] für Bitch Please und [[yds]] für You dont say
+ 
+ Version 0.6.1a
+ - Fehler beim anzeigen der Memes behoben
+ - Weitere Memes hinzugefügt. [[trf]] für Trollface, [[fp]] für Facepalm, [[fkm]] für are you kidding me und ein geheimes.
+ - Keine nervigen Chatanfrage dialoge, sondern eine Benachrichtigung im ControlCenter (Das erste Fenster, dass gestartet wird)
+ - Chats werden jetzt wieder durch doppelklick auf den Namen eines Peers aus der Peerliste geöffnet
+ - Es können jetzt Befehle wie Vibrieren an andere geschickt werden
